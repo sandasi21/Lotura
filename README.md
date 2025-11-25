@@ -1,4 +1,4 @@
-# Lotura 🌸
+# Lotura 🪷
 
 <div align="center">
   
