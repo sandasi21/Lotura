@@ -55,7 +55,7 @@
 
 ```
 app/src/main/java/com/Lotura/app/
-├── fragments/         # Home, Habits, Mood, Settings
+├── fragments/        # Home, Habits, Mood, Settings
 ├── models/           # Data classes (Habit, MoodEntry)
 ├── adapters/         # RecyclerView adapters
 ├── utils/            # Helper classes
